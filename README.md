@@ -74,8 +74,8 @@ namespace Client
 ## 4.结语
 本机测试一次RPC请求平均0.4ms左右，性能不高，但是足以应对绝大多数业务场景，重在简单实用。可以优化的地方很多，还望大家多多支持。
 
-GitHub地址：https://github.com/Coldairarrow/DotNettyRPC
+ 
 
-QQ群：373144077
+ 
 
 
